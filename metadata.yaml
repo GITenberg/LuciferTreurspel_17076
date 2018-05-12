@@ -1,0 +1,34 @@
+_repo: LuciferTreurspel_17076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vondel, Joost van den
+    aliases:
+    - Vondelen, Joost van den
+    - Den Vondel, Joost van
+    - Vondel, J. V. (Joost van)
+    - Vondelen, J. V. (Joost van)
+    - Van den Vondel, Joost
+    - Vondel, Jost van den
+    birthdate: 1587
+    deathdate: 1679
+    gutenberg_agent_id: '7148'
+    url: http://www.gutenberg.org/2009/agents/7148
+    wikipedia: http://nl.wikipedia.org/wiki/Joost_van_den_Vondel
+description: ''
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17076'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch drama'
+- !lcc 'PT'
+title: 'Lucifer: Treurspel'
+url: http://www.gutenberg.org/ebooks/17076
